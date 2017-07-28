@@ -3,9 +3,9 @@
 import Vue from 'vue';
 import VueRouter from 'vue-router';
 import App from './App';
-import Goods from './components/goods/goods';
-import Ratings from './components/ratings/ratings';
-import Seller from './components/seller/seller';
+import Goods from './components/goods/Goods';
+import Ratings from './components/ratings/Ratings';
+import Seller from './components/seller/Seller';
 
 Vue.config.productionTip = false;
 
